@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "jm-live-blog/jm-live-blog-block",
+  "version": "2.1",
+  "title": "JM Live Blog",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Displays a live blog for the post or page",
+  "attributes": {
+    "jm_live_blog_color_scheme": {
+      "type": "string",
+      "default": "light"
+    },
+    "jm_live_blog_update_color": {
+      "type": "string",
+      "default": "#93060A"
+    },
+    "jm_live_blog_title": {
+      "type": "string",
+      "default": "Title"
+    },
+    "jm_live_blog_description": {
+      "type": "string",
+      "default": "Description"
+    }
+  },
+  "supports": {
+    "align": [
+      "wide",
+      "full"
+    ],
+    "html": false,
+    "color": {
+      "gradients": true,
+      "link": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    },
+    "__experimentalLayout": true
+  },
+  "textdomain": "jm-live-blog",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

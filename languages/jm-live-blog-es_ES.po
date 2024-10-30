@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JM Live Blog\n"
+"POT-Creation-Date: 2017-08-27 17:20-0500\n"
+"PO-Revision-Date: 2017-08-27 17:21-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: jm-live-blog.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/jm-live-blog-admin.php:20
+msgid "Live Blog Updates"
+msgstr "Actualizaciones del Blog en vivo"
+
+#: admin/jm-live-blog-admin.php:43
+msgid "Color Scheme"
+msgstr "Esquema de color"
+
+#: admin/jm-live-blog-admin.php:56
+msgid "New Update Alert Color"
+msgstr "Nuevo Color de Alerta de Actualización"
+
+#: admin/jm-live-blog-admin.php:60
+msgid "Use Live Blog Widget"
+msgstr "Uso Live Blog Widget"
+
+#: admin/jm-live-blog-admin.php:61
+msgid "No"
+msgstr "No"
+
+#: admin/jm-live-blog-admin.php:62
+msgid "Yes"
+msgstr "Si"
+
+#: admin/jm-live-blog-admin.php:65
+msgid "Live Blog Widget Title"
+msgstr "Título de Blog Widget en vivo"
+
+#: admin/jm-live-blog-admin.php:69
+msgid "Live Blog Widget Description"
+msgstr "Descripción Blog Widget en vivo"
+
+#: admin/jm-live-blog-admin.php:74
+msgid "Add Update"
+msgstr "Añadir actualización de Noticia"
+
+#: admin/jm-live-blog-admin.php:79 admin/jm-live-blog-admin.php:111
+#: admin/jm-live-blog-admin.php:137
+msgid "Update Title"
+msgstr "Actualizar Título"
+
+#: admin/jm-live-blog-admin.php:84 admin/jm-live-blog-admin.php:116
+#: admin/jm-live-blog-admin.php:142
+msgid "Update Time"
+msgstr "Tiempo de actualización"
+
+#: admin/jm-live-blog-admin.php:89 admin/jm-live-blog-admin.php:121
+#: admin/jm-live-blog-admin.php:147
+msgid "Update Content"
+msgstr "Actualización de Contenido"
+
+#: admin/jm-live-blog-admin.php:95 admin/jm-live-blog-admin.php:128
+#: admin/jm-live-blog-admin.php:153
+msgid "Remove Update"
+msgstr "Quitar actualización"
+
+#: jm-live-blog-widget.php:22
+msgid "JM Live Blog Widget"
+msgstr ""
+
+#: jm-live-blog-widget.php:25
+msgid "Displays the live blog for a post or page in a widget for the sidebar."
+msgstr ""
+"Muestra el blog en un post o página en un widget para la barra lateral."
+
+#: jm-live-blog-widget.php:71 jm-live-blog.php:101
+msgid "New Updates"
+msgstr "Nuevas actualizaciones"
+
+#. Plugin Name of the plugin/theme
+msgid "JM Live Blog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jacobmartella.com/wordpress/wordpress-plugins/jm-live-blog"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Live blogs are the essential tool for keeping readers up to date in any "
+"breaking news situation or sporting event. Using the power of AJAX, JM Live "
+"Blog allows you to add a live blog to any post with a simple shortcode to "
+"keep your readers in the know."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jacob Martella"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jacobmartella.com"
+msgstr ""
